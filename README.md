@@ -1,5 +1,5 @@
 # Creative-code
-# FloodGuard V4 – Smart Flood Monitoring System
+# FloodGuard – Smart Flood Monitoring System
 
 ## Project Overview
 FloodGuard V4 is a flood monitoring and early-warning prototype developed using **BBC Micro:bit V2** and **Microsoft MakeCode Blocks**. It simulates water-level changes and provides visual and sound alerts.
